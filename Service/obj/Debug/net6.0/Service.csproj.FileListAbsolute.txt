@@ -1,0 +1,15 @@
+D:\Accstrade_clone\Accesstrade_API\Service\bin\Debug\net6.0\Service.deps.json
+D:\Accstrade_clone\Accesstrade_API\Service\bin\Debug\net6.0\Service.dll
+D:\Accstrade_clone\Accesstrade_API\Service\bin\Debug\net6.0\Service.pdb
+D:\Accstrade_clone\Accesstrade_API\Service\bin\Debug\net6.0\DLL.dll
+D:\Accstrade_clone\Accesstrade_API\Service\bin\Debug\net6.0\DLL.pdb
+D:\Accstrade_clone\Accesstrade_API\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\Accstrade_clone\Accesstrade_API\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Accstrade_clone\Accesstrade_API\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\Accstrade_clone\Accesstrade_API\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\Accstrade_clone\Accesstrade_API\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\Accstrade_clone\Accesstrade_API\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\Accstrade_clone\Accesstrade_API\Service\obj\Debug\net6.0\Service.dll
+D:\Accstrade_clone\Accesstrade_API\Service\obj\Debug\net6.0\refint\Service.dll
+D:\Accstrade_clone\Accesstrade_API\Service\obj\Debug\net6.0\Service.pdb
+D:\Accstrade_clone\Accesstrade_API\Service\obj\Debug\net6.0\ref\Service.dll
